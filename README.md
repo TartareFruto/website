@@ -1,2 +1,2 @@
 # Basic website
-Html, css, my first basic website
+HTML, CSS
