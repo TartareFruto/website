@@ -1,2 +1,2 @@
-# Basic website
+# Website, one page
 HTML, CSS
